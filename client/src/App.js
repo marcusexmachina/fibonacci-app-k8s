@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-          Fibonacci app hosted on GKE
+          Fibonacci app hosted on Google Kubernetes Engine
           </a>
         </header>
         <div>
